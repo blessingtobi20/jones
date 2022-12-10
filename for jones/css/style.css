@@ -156,7 +156,7 @@ h1, h2, h3{
 
 /* work */
 #work{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../images/work-pic.jpg') center/cover no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url("https://res.cloudinary.com/ddmratzfr/image/upload/v1670684808/navick/278197911_698997434476250_792956734153290690_n_mbapko.jpg") center/cover no-repeat fixed;
     color: var(--light-color);
 }
 #work .title h2, #work h3{
